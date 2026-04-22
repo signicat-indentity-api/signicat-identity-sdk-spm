@@ -1,0 +1,181 @@
+// swift-interface-format-version: 1.0
+// swift-compiler-version: Apple Swift version 6.2.4 effective-5.10 (swiftlang-6.2.4.1.4 clang-1700.6.4.2)
+// swift-module-flags: -target arm64-apple-ios15.1-simulator -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -enable-experimental-feature DebugDescriptionMacro -enable-bare-slash-regex -module-name IdentitySDK
+// swift-module-flags-ignorable: -no-verify-emitted-module-interface -formal-cxx-interoperability-mode=off -interface-compiler-version 6.2.4
+import AVFAudio
+import AVFoundation
+import AuthenticationServices
+import CFNetwork
+import CoreText
+import CryptoKit
+import DeveloperToolsSupport
+import Foundation
+@_exported import IdentitySDK
+import Lottie
+import PDFKit
+import Swift
+import SwiftUI
+import UIKit
+import _Concurrency
+import _StringProcessing
+import _SwiftConcurrencyShims
+public enum VideoIDError : Swift.Error, Swift.Equatable {
+  case cancelled
+  case internalError(code: Swift.String, message: Swift.String)
+  case serverError(code: Swift.String, message: Swift.String)
+  case networkError(code: Swift.String, message: Swift.String)
+  public static func == (lhs: IdentitySDK.VideoIDError, rhs: IdentitySDK.VideoIDError) -> Swift.Bool
+}
+public enum OnboardingError : Swift.Error {
+  case cancelled
+  case internalError(code: Swift.String, message: Swift.String)
+  case serverError(code: Swift.String, message: Swift.String)
+  case networkError(code: Swift.String, message: Swift.String)
+}
+public enum SignatureError : Swift.Error, Swift.Equatable {
+  case cancelled
+  case internalError(code: Swift.String, message: Swift.String)
+  case networkError(code: Swift.String, message: Swift.String)
+  case serverError(code: Swift.String, message: Swift.String)
+  public static func == (lhs: IdentitySDK.SignatureError, rhs: IdentitySDK.SignatureError) -> Swift.Bool
+}
+extension IdentitySDK.SignatureError {
+  #if compiler(>=5.3) && $NonescapableTypes
+  public var errorDescription: Swift.String? {
+    get
+  }
+  #endif
+}
+@_hasMissingDesignatedInitializers public class TermsAndConditionsManager {
+  #if compiler(>=5.3) && $NonescapableTypes
+  public func start(forClientId clientId: Swift.String, proceedToken token: Swift.String, hostViewController: UIKit.UIViewController, completionHandler: @escaping (IdentitySDK.OnboardingError?) -> Swift.Void)
+  #endif
+  @objc deinit
+}
+public var STYLE: IdentitySDK.Style
+public var STYLE_TYPE: Swift.Int
+public class Identity {
+  public var onboardingManager: IdentitySDK.OnboardingManager {
+    get
+    set
+  }
+  public init()
+  public func setupStyling()
+  public var frameworkVersion: Swift.String {
+    get
+  }
+  @objc deinit
+}
+@_hasMissingDesignatedInitializers public class FintecMicropaymentManager {
+  #if compiler(>=5.3) && $NonescapableTypes
+  public func startMicropayment(forClientId clientId: Swift.String, proceedToken token: Swift.String, hostViewController: UIKit.UIViewController, language: Swift.String? = nil, completionHandler: @escaping (IdentitySDK.MicropaymentError?) -> Swift.Void)
+  #endif
+  @objc deinit
+}
+@_hasMissingDesignatedInitializers public class SignatureManager {
+  #if compiler(>=5.3) && $NonescapableTypes
+  public func startSignature(forClientId clientId: Swift.String, proceedToken token: Swift.String, languageCode: Swift.String = "", hostViewController: UIKit.UIViewController, completionHandler: @escaping (IdentitySDK.SignatureError?) -> Swift.Void)
+  #endif
+  @objc deinit
+}
+public struct Style {
+  public var brandLogo: UIKit.UIImage?
+  public var progressBarColor: UIKit.UIColor
+  public var backgroundColor: UIKit.UIColor
+  public var reverseLayoutConfirCancelButtons: Swift.Bool
+  public var activityIndicatorColor: UIKit.UIColor
+  public var applyButtonBackgroundColor: UIKit.UIColor
+  public var cancelButtonBackgroundColor: UIKit.UIColor
+  public var applyButtonFontColor: UIKit.UIColor
+  public var cancelButtonFontColor: UIKit.UIColor
+  public var boldFontName: Swift.String?
+  public var regularFontName: Swift.String?
+  public var startIconTintColor: UIKit.UIColor
+  public var startIconBackgroundColor: UIKit.UIColor
+  public var disabledButtonColor: UIKit.UIColor
+  public var videoID: IdentitySDK.VideoIDStyle
+  public var onboarding: IdentitySDK.OnboardingStyle
+  public var fintecMicropayment: IdentitySDK.FintecMicropaymentStyle
+}
+public struct VideoIDStyle {
+  public var notificationTextColor: UIKit.UIColor
+  public var bordersColor: UIKit.UIColor
+  public var activityIndicatorColor: UIKit.UIColor
+  public var notificationWarningBackgroundColor: UIKit.UIColor
+  public var notificationBackgroundColor: UIKit.UIColor
+  public var faceScanIcon: UIKit.UIImage?
+  public var retryIcon: UIKit.UIImage?
+}
+public struct OnboardingStyle {
+  public var conditionsViewBackgroundColor: UIKit.UIColor
+  public var disabledButtonColor: UIKit.UIColor
+  public var disabledButtonTextColor: UIKit.UIColor
+  public var titleViewBackgroundColor: UIKit.UIColor
+  public var textColor: UIKit.UIColor
+  public var tintColor: UIKit.UIColor
+  public var openPDFUrlTintColor: UIKit.UIColor
+  public var checkBoxUnCheckd: UIKit.UIColor
+  public var checkBoxCheckd: UIKit.UIColor
+  public var conditionsSeparatorColor: UIKit.UIColor
+}
+public struct FintecMicropaymentStyle {
+  public var tintColor: UIKit.UIColor
+  public var logoVariation: Swift.String
+  public var backgroundColor: UIKit.UIColor
+  public var textColor: UIKit.UIColor
+}
+@_hasMissingDesignatedInitializers public class EasySignProcessManager {
+  #if compiler(>=5.3) && $NonescapableTypes
+  public func start(forClientId clientId: Swift.String, proceedToken token: Swift.String, languageCode: Swift.String, hostViewController: UIKit.UIViewController, completionHandler: @escaping (IdentitySDK.OnboardingError?) -> Swift.Void)
+  #endif
+  @objc deinit
+}
+public enum MicropaymentError : Swift.Error {
+  case cancelled
+  case internalError(code: Swift.String, message: Swift.String)
+  case serverError(code: Swift.String, message: Swift.String)
+  case networkError(code: Swift.String, message: Swift.String)
+  public static func == (lhs: IdentitySDK.MicropaymentError, rhs: IdentitySDK.MicropaymentError) -> Swift.Bool
+}
+public var ADHOC_CONFIG: Swift.Bool
+@_hasMissingDesignatedInitializers public class AuthorizationManager {
+  #if compiler(>=5.3) && $NonescapableTypes
+  public func startAuthorization(forClientId clientId: Swift.String, proceedToken token: Swift.String, languageCode: Swift.String, hostViewController: UIKit.UIViewController, accessTokenResponse: IdentitySDK.VideoIDAccessTokenResponse? = nil, completionHandler: @escaping (IdentitySDK.VideoIDError?) -> Swift.Void)
+  #endif
+  @objc deinit
+}
+public struct VideoIDAccessTokenResponse : Swift.Codable {
+  public func encode(to encoder: any Swift.Encoder) throws
+  public init(from decoder: any Swift.Decoder) throws
+}
+extension Foundation.Data {
+  #if compiler(>=5.3) && $NonescapableTypes
+  public static func fromBase64(_ encoded: Swift.String) -> Foundation.Data?
+  #endif
+}
+public struct OnboardingResult {
+  public let sessionId: Swift.String?
+  public let error: IdentitySDK.OnboardingError?
+}
+@_hasMissingDesignatedInitializers public class OnboardingManager {
+  public func start(forClientId clientId: Swift.String, proceedToken token: Swift.String, languageCode: Swift.String, hostViewController: UIKit.UIViewController, completionHandler: @escaping (IdentitySDK.OnboardingResult) -> Swift.Void)
+  @objc deinit
+}
+@_hasMissingDesignatedInitializers public class GocardlessManager {
+  #if compiler(>=5.3) && $NonescapableTypes
+  public func startProcess(forProceedToken token: Swift.String?, hostViewController: UIKit.UIViewController, completionHandler: @escaping (IdentitySDK.OnboardingError?) -> Swift.Void)
+  #endif
+  @objc deinit
+}
+@_hasMissingDesignatedInitializers public class DeferredProcessManager {
+  #if compiler(>=5.3) && $NonescapableTypes
+  public func start(forClientId clientId: Swift.String, proceedToken token: Swift.String, languageCode: Swift.String, hostViewController: UIKit.UIViewController, completionHandler: @escaping (IdentitySDK.OnboardingError?) -> Swift.Void)
+  #endif
+  @objc deinit
+}
+@_hasMissingDesignatedInitializers public class WebIDManager {
+  #if compiler(>=5.3) && $NonescapableTypes
+  public func startProcess(forProceedToken token: Swift.String?, hostViewController: UIKit.UIViewController, completionHandler: @escaping (IdentitySDK.OnboardingError?) -> Swift.Void)
+  #endif
+  @objc deinit
+}
