@@ -7,5 +7,4 @@ framework module IdentitySDK {
 
 module IdentitySDK.Swift {
   header "IdentitySDK-Swift.h"
-  requires objc
 }

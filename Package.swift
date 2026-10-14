@@ -13,7 +13,7 @@ let package = Package(
        )
     ],
     dependencies: [
-        .package(url: "https://github.com/signicat/videoidskd-spm.git", exact: "26.10.5")
+        .package(url: "https://github.com/signicat/videoidskd-spm.git", exact: "26.40.1")
     ],
     targets: [
         .target(

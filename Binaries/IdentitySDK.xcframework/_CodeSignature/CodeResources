@@ -6,11 +6,11 @@
 	<dict>
 		<key>ios-arm64/IdentitySDK.framework/Assets.car</key>
 		<data>
-		WpFOn26NjcQLtz1DHTgw5QK0b1M=
+		0PR9tHclXyjYi4yHT5wZ9P4CSsE=
 		</data>
 		<key>ios-arm64/IdentitySDK.framework/Headers/IdentitySDK-Swift.h</key>
 		<data>
-		EgjYlYsj9M8CbgNPmUtjRGWqkYQ=
+		40gbxgTE0o1lO+i1u3RRfxJcdCk=
 		</data>
 		<key>ios-arm64/IdentitySDK.framework/Headers/IdentitySDK.h</key>
 		<data>
@@ -18,31 +18,31 @@
 		</data>
 		<key>ios-arm64/IdentitySDK.framework/IdentitySDK</key>
 		<data>
-		kQoihbw3vRcCDUliNeQyO0xRWKc=
+		MrBtCIXKlfvgPQQ2RB1MyVXFGNY=
 		</data>
 		<key>ios-arm64/IdentitySDK.framework/Info.plist</key>
 		<data>
-		LNqnGVIUztMuD68sYQkXJonnaUc=
+		6i6WrrPywFSmieWNmyCWONb4rT4=
 		</data>
 		<key>ios-arm64/IdentitySDK.framework/Modules/IdentitySDK.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		wos/509WvY9/SzrSSd9567tNqns=
+		bMP3xhNXc+JzGzlKjxZ2WFgaGFk=
 		</data>
 		<key>ios-arm64/IdentitySDK.framework/Modules/IdentitySDK.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
-		8J+vyGwfHyfAq+IwK+1gqMOlcfI=
+		TwlHugl7EGfXVc5FZK9MnVgcFUA=
 		</data>
 		<key>ios-arm64/IdentitySDK.framework/Modules/IdentitySDK.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
-		qLWJhQr5+r12BGzIQStUqN4wg2k=
+		Zpl+EB/tLd3gNU4pN15h4cDnnHY=
 		</data>
 		<key>ios-arm64/IdentitySDK.framework/Modules/IdentitySDK.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		8J+vyGwfHyfAq+IwK+1gqMOlcfI=
+		TwlHugl7EGfXVc5FZK9MnVgcFUA=
 		</data>
 		<key>ios-arm64/IdentitySDK.framework/Modules/module.modulemap</key>
 		<data>
-		pOigS8WeBd9DOrnFujFgRvc5dcQ=
+		1yEaXCBeL13Dl57fixgeyE4qSwo=
 		</data>
 		<key>ios-arm64/IdentitySDK.framework/PrivacyInfo.xcprivacy</key>
 		<data>
@@ -144,11 +144,11 @@
 		</dict>
 		<key>ios-arm64_x86_64-simulator/IdentitySDK.framework/Assets.car</key>
 		<data>
-		WpFOn26NjcQLtz1DHTgw5QK0b1M=
+		0PR9tHclXyjYi4yHT5wZ9P4CSsE=
 		</data>
 		<key>ios-arm64_x86_64-simulator/IdentitySDK.framework/Headers/IdentitySDK-Swift.h</key>
 		<data>
-		v5cQcIwd422sAPNxYtsleeKlXeg=
+		UzzHwvY24rqYBIOaCCo/r25bEKA=
 		</data>
 		<key>ios-arm64_x86_64-simulator/IdentitySDK.framework/Headers/IdentitySDK.h</key>
 		<data>
@@ -156,47 +156,47 @@
 		</data>
 		<key>ios-arm64_x86_64-simulator/IdentitySDK.framework/IdentitySDK</key>
 		<data>
-		K1lBM/q1b+cSNA9o1qlLiQJV+f4=
+		SjdRuJ+CMtQ7pvK9xVD3pI+l4xA=
 		</data>
 		<key>ios-arm64_x86_64-simulator/IdentitySDK.framework/Info.plist</key>
 		<data>
-		Mb5Lf2S+YEirUXS30OX2OG/JzNw=
+		iF6YoT5LhiOVCSGcACZUiOhW7Xo=
 		</data>
 		<key>ios-arm64_x86_64-simulator/IdentitySDK.framework/Modules/IdentitySDK.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		qHO/ckUivgnZgyE/5D8jylDvsPU=
+		iV/IpfvcJM9grdIZ0ANOlLNoeWU=
 		</data>
 		<key>ios-arm64_x86_64-simulator/IdentitySDK.framework/Modules/IdentitySDK.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		wOZdK3ungyBYa6CuOdk+mm2z3TM=
+		kgcB0/PYl+wcgAvFIfXSKk+0+rc=
 		</data>
 		<key>ios-arm64_x86_64-simulator/IdentitySDK.framework/Modules/IdentitySDK.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		SxdoXSWKKHa8I7mw0hMNTkHCDbQ=
+		zksuG5PPFWI2D/XyeJwjNU6OGE8=
 		</data>
 		<key>ios-arm64_x86_64-simulator/IdentitySDK.framework/Modules/IdentitySDK.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		wOZdK3ungyBYa6CuOdk+mm2z3TM=
+		kgcB0/PYl+wcgAvFIfXSKk+0+rc=
 		</data>
 		<key>ios-arm64_x86_64-simulator/IdentitySDK.framework/Modules/IdentitySDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		qHO/ckUivgnZgyE/5D8jylDvsPU=
+		iV/IpfvcJM9grdIZ0ANOlLNoeWU=
 		</data>
 		<key>ios-arm64_x86_64-simulator/IdentitySDK.framework/Modules/IdentitySDK.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		Qk+cdKXolSOgS4eJauJOsBor+hU=
+		PcESeU3zkQArJmQztSpDfFuoLMo=
 		</data>
 		<key>ios-arm64_x86_64-simulator/IdentitySDK.framework/Modules/IdentitySDK.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		CwKHYcuAmGdhdjWtHDQ1+rH50yQ=
+		I1sN5ZfLcW19yvvsvdDBPEqcuOk=
 		</data>
 		<key>ios-arm64_x86_64-simulator/IdentitySDK.framework/Modules/IdentitySDK.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		Qk+cdKXolSOgS4eJauJOsBor+hU=
+		PcESeU3zkQArJmQztSpDfFuoLMo=
 		</data>
 		<key>ios-arm64_x86_64-simulator/IdentitySDK.framework/Modules/module.modulemap</key>
 		<data>
-		pOigS8WeBd9DOrnFujFgRvc5dcQ=
+		1yEaXCBeL13Dl57fixgeyE4qSwo=
 		</data>
 		<key>ios-arm64_x86_64-simulator/IdentitySDK.framework/PrivacyInfo.xcprivacy</key>
 		<data>
@@ -208,7 +208,7 @@
 		</data>
 		<key>ios-arm64_x86_64-simulator/IdentitySDK.framework/_CodeSignature/CodeResources</key>
 		<data>
-		1GwBfPh0Vb1ELFfHrrsFm9TaOSU=
+		nmM5GiDohjmkH1QvlV9MSfGiKls=
 		</data>
 		<key>ios-arm64_x86_64-simulator/IdentitySDK.framework/ca.lproj/Localizable.strings</key>
 		<dict>
@@ -305,32 +305,20 @@
 	<dict>
 		<key>ios-arm64/IdentitySDK.framework/Assets.car</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			WpFOn26NjcQLtz1DHTgw5QK0b1M=
-			</data>
 			<key>hash2</key>
 			<data>
-			4dkbYCDSjq1TLQBOmSgXw7E4ecAyx5+F/lpLRAKHnOA=
+			9KN2oKaOT0sTHW91dSAPPtYyCMEMVPdOosWsEnVgTuI=
 			</data>
 		</dict>
 		<key>ios-arm64/IdentitySDK.framework/Headers/IdentitySDK-Swift.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			EgjYlYsj9M8CbgNPmUtjRGWqkYQ=
-			</data>
 			<key>hash2</key>
 			<data>
-			KuAqr9BJM38M01HafaH0P+Y7r21jaaWQXwlKhF2VktU=
+			UP2Ig1Iyxv0zO5TQ79b0zDH7Fk9u8Apnv196/htNSOc=
 			</data>
 		</dict>
 		<key>ios-arm64/IdentitySDK.framework/Headers/IdentitySDK.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			Omgmr49jMibpAONwEvy5lqPJZS8=
-			</data>
 			<key>hash2</key>
 			<data>
 			IRNBK9hvmIb4EbqA5CnEQYZqwHN2ON3UkXlV1KnEt88=
@@ -338,87 +326,55 @@
 		</dict>
 		<key>ios-arm64/IdentitySDK.framework/IdentitySDK</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			kQoihbw3vRcCDUliNeQyO0xRWKc=
-			</data>
 			<key>hash2</key>
 			<data>
-			nuEgm3LVJKYoUC/XScbWUBj78OTThCngkM1TtC599oo=
+			3pE0xEwKZOfZDLRzrzL5tYS9ig3l/1gGlBIQ37QKD4U=
 			</data>
 		</dict>
 		<key>ios-arm64/IdentitySDK.framework/Info.plist</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			LNqnGVIUztMuD68sYQkXJonnaUc=
-			</data>
 			<key>hash2</key>
 			<data>
-			7W5ZLTQQim8Kvv2Zc0+PcuIL5BgaK9iLI0NBOV5zlyA=
+			sa6yYEfftFXMj/YrcoFJIhdczTijwtw1UjHhh/cbPuQ=
 			</data>
 		</dict>
 		<key>ios-arm64/IdentitySDK.framework/Modules/IdentitySDK.swiftmodule/arm64-apple-ios.abi.json</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			wos/509WvY9/SzrSSd9567tNqns=
-			</data>
 			<key>hash2</key>
 			<data>
-			UnK6Th0Ya2AWDh+fN8vWqGKXAMILdHDwRHC/nW4IEyQ=
+			g2ALWWAADiFEQfNFdfbxqDbiOgh5vwr6fLRfnNnGsEw=
 			</data>
 		</dict>
 		<key>ios-arm64/IdentitySDK.framework/Modules/IdentitySDK.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			8J+vyGwfHyfAq+IwK+1gqMOlcfI=
-			</data>
 			<key>hash2</key>
 			<data>
-			CIb6KkSOccBxBvzrfljoqXmLeGaLJjR1Y5E3tXQZYSI=
+			9bGVXDgvbe2cSAZ9vAHig9wgyidOH5DPtueTeA//CL4=
 			</data>
 		</dict>
 		<key>ios-arm64/IdentitySDK.framework/Modules/IdentitySDK.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			qLWJhQr5+r12BGzIQStUqN4wg2k=
-			</data>
 			<key>hash2</key>
 			<data>
-			ffi/wbgh2wcUkSXtvLe7bpjC21s5Q5ECd5wXOld2FyY=
+			UJSQTd9LkUmc0GvWN5Myd13DOR1VsTjtgyJ0fLZgVfY=
 			</data>
 		</dict>
 		<key>ios-arm64/IdentitySDK.framework/Modules/IdentitySDK.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			8J+vyGwfHyfAq+IwK+1gqMOlcfI=
-			</data>
 			<key>hash2</key>
 			<data>
-			CIb6KkSOccBxBvzrfljoqXmLeGaLJjR1Y5E3tXQZYSI=
+			9bGVXDgvbe2cSAZ9vAHig9wgyidOH5DPtueTeA//CL4=
 			</data>
 		</dict>
 		<key>ios-arm64/IdentitySDK.framework/Modules/module.modulemap</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			pOigS8WeBd9DOrnFujFgRvc5dcQ=
-			</data>
 			<key>hash2</key>
 			<data>
-			7mOW7sv/K3p9UI4+UkneqGlnFCxJbqCddd0RyS80d2A=
+			RBo4QG1lPRMQ0t1UiX55WAn+kUgHoEQiDdvHO/BCum4=
 			</data>
 		</dict>
 		<key>ios-arm64/IdentitySDK.framework/PrivacyInfo.xcprivacy</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			Xp+Gl6ysuek0ypCLcqR2uGTQmp0=
-			</data>
 			<key>hash2</key>
 			<data>
 			SWYKEE42QmLi4xwfGJyJnbMxi60APmVttjXjPVJa9Mc=
@@ -426,10 +382,6 @@
 		</dict>
 		<key>ios-arm64/IdentitySDK.framework/ShadowsIntoLight-Regular.ttf</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			5RLWW0Q5joOQchVALUd2Q3UcHfo=
-			</data>
 			<key>hash2</key>
 			<data>
 			LWlyCLEzqQCrH1YH5DfQObGaD5Vvw9mYdgyrs8Ea07A=
@@ -437,10 +389,6 @@
 		</dict>
 		<key>ios-arm64/IdentitySDK.framework/ca.lproj/Localizable.strings</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			erZEzIZD8GCM2CHKw4LywMO2sOA=
-			</data>
 			<key>hash2</key>
 			<data>
 			xC322wyA2fYzWaYw3YOaRGjG3DGTSV72eDhxHmAdzMI=
@@ -450,10 +398,6 @@
 		</dict>
 		<key>ios-arm64/IdentitySDK.framework/da.lproj/Localizable.strings</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			DEliNxhfVvWCknz8H1BoG5KKuj4=
-			</data>
 			<key>hash2</key>
 			<data>
 			MdojiygBb2bHoWo4C0vl78zjQXcyg+pxz1sSNguWX2o=
@@ -463,10 +407,6 @@
 		</dict>
 		<key>ios-arm64/IdentitySDK.framework/de.lproj/Localizable.strings</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			182hEY4nABn0Vi3zNbrph77o8SY=
-			</data>
 			<key>hash2</key>
 			<data>
 			sL2TO1DNezSGkPEzZxcGIMBoIO4FznN9VTYYs3uIKTE=
@@ -476,10 +416,6 @@
 		</dict>
 		<key>ios-arm64/IdentitySDK.framework/en.lproj/Localizable.strings</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			CDaygUh7Zr0lx4wEBGPWWUEsYvA=
-			</data>
 			<key>hash2</key>
 			<data>
 			dTbsk+v2hOr8JCuhp6yzCS2Qfrdxn/ZF6awvw5/K67U=
@@ -489,10 +425,6 @@
 		</dict>
 		<key>ios-arm64/IdentitySDK.framework/es.lproj/Localizable.strings</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			Rm0dno5qmZ26l9IFBGUBmo/e1rg=
-			</data>
 			<key>hash2</key>
 			<data>
 			40FDOR8Sp5Tlm0HqYa8MIAzTslKOsRLOQz8BoLBrORU=
@@ -502,10 +434,6 @@
 		</dict>
 		<key>ios-arm64/IdentitySDK.framework/fi.lproj/Localizable.strings</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			GJx9etTH2rviplEYV2sdVg40lUk=
-			</data>
 			<key>hash2</key>
 			<data>
 			o40Fyh2ifliDyv1ebP6TJDlm1snRAlnaA9E8TCm2rNY=
@@ -515,10 +443,6 @@
 		</dict>
 		<key>ios-arm64/IdentitySDK.framework/it.lproj/Localizable.strings</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			W9Zjq7YS/Pd4TaWjIhHAjGM/j2c=
-			</data>
 			<key>hash2</key>
 			<data>
 			hRIKKm9nQozc+9REonYuQh8u6RCZ6+UEFrnhNiAVlmc=
@@ -528,10 +452,6 @@
 		</dict>
 		<key>ios-arm64/IdentitySDK.framework/no.lproj/Localizable.strings</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			cdRkuCbGGmn1h3M4MDhuZQO9SGA=
-			</data>
 			<key>hash2</key>
 			<data>
 			qMyEFvNg7DsSaCSEDpY+zj7EKIMyN3Q8SRZxzQ3m+a4=
@@ -541,10 +461,6 @@
 		</dict>
 		<key>ios-arm64/IdentitySDK.framework/se.lproj/Localizable.strings</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			McYFyR8Xr3yqPN9Tn2GuPC2F31s=
-			</data>
 			<key>hash2</key>
 			<data>
 			xlNsG3/NAQgZBoiRhSUVLnII9SR7tA5vrbzkDyTswMs=
@@ -554,10 +470,6 @@
 		</dict>
 		<key>ios-arm64/IdentitySDK.framework/sv.lproj/Localizable.strings</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			e1EHgiJbEdxHxdSxuQbR5Xn2UYc=
-			</data>
 			<key>hash2</key>
 			<data>
 			rGEJLzgeyxzxjXs+w5TYIgECmFXZgLv+k4+geLiy7lg=
@@ -567,32 +479,20 @@
 		</dict>
 		<key>ios-arm64_x86_64-simulator/IdentitySDK.framework/Assets.car</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			WpFOn26NjcQLtz1DHTgw5QK0b1M=
-			</data>
 			<key>hash2</key>
 			<data>
-			4dkbYCDSjq1TLQBOmSgXw7E4ecAyx5+F/lpLRAKHnOA=
+			9KN2oKaOT0sTHW91dSAPPtYyCMEMVPdOosWsEnVgTuI=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/IdentitySDK.framework/Headers/IdentitySDK-Swift.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			v5cQcIwd422sAPNxYtsleeKlXeg=
-			</data>
 			<key>hash2</key>
 			<data>
-			HVV8PfF2fHEYDbBC5NbZ1to8i0YspSR2mMcpgdKvC4w=
+			W8EmxJFAOMjixajiHaIOXlAxCcl7szXryPSpnb9NK68=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/IdentitySDK.framework/Headers/IdentitySDK.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			Omgmr49jMibpAONwEvy5lqPJZS8=
-			</data>
 			<key>hash2</key>
 			<data>
 			IRNBK9hvmIb4EbqA5CnEQYZqwHN2ON3UkXlV1KnEt88=
@@ -600,131 +500,83 @@
 		</dict>
 		<key>ios-arm64_x86_64-simulator/IdentitySDK.framework/IdentitySDK</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			K1lBM/q1b+cSNA9o1qlLiQJV+f4=
-			</data>
 			<key>hash2</key>
 			<data>
-			N3ZJ9hcsxhWnlvC48t4sgkX949gWAZaEpN4Yvkwy+Hs=
+			JLAda9FTuN7bPGgSoDoYbuEyp9GyXT9c8tkXdyGGP+E=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/IdentitySDK.framework/Info.plist</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			Mb5Lf2S+YEirUXS30OX2OG/JzNw=
-			</data>
 			<key>hash2</key>
 			<data>
-			3wZXm7jLPByvaDu5zBYK/20M2VmGHQrJQp2hNDf867s=
+			CgZ+x1u3HizRsYe/2O2/p7fSpzS7FCUubvcENSsZSsQ=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/IdentitySDK.framework/Modules/IdentitySDK.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			qHO/ckUivgnZgyE/5D8jylDvsPU=
-			</data>
 			<key>hash2</key>
 			<data>
-			sRtecJ0rqQPvkM3Fc/wruqx3ze61BddXt3tBNZqGuGw=
+			TZYDHIafT7X5pbAAeXeLtRaDap5pjNgjrLZbU5df3As=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/IdentitySDK.framework/Modules/IdentitySDK.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			wOZdK3ungyBYa6CuOdk+mm2z3TM=
-			</data>
 			<key>hash2</key>
 			<data>
-			wgHUUqk2uEQxK9qIXmHZjEvbGqb4Y4SQzyi0IN5aJE4=
+			/ZztosFUGVWG1RxbRjXBpol930NLMX/JaVAj5YdNMBM=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/IdentitySDK.framework/Modules/IdentitySDK.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			SxdoXSWKKHa8I7mw0hMNTkHCDbQ=
-			</data>
 			<key>hash2</key>
 			<data>
-			8Ehvay4di66JepLoPpreHgqT5szolDo+veJPokO8CL0=
+			cG1PAFn0AE6yO0+CmHd8/5zj/YayvoPHddoRDzr4H0A=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/IdentitySDK.framework/Modules/IdentitySDK.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			wOZdK3ungyBYa6CuOdk+mm2z3TM=
-			</data>
 			<key>hash2</key>
 			<data>
-			wgHUUqk2uEQxK9qIXmHZjEvbGqb4Y4SQzyi0IN5aJE4=
+			/ZztosFUGVWG1RxbRjXBpol930NLMX/JaVAj5YdNMBM=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/IdentitySDK.framework/Modules/IdentitySDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			qHO/ckUivgnZgyE/5D8jylDvsPU=
-			</data>
 			<key>hash2</key>
 			<data>
-			sRtecJ0rqQPvkM3Fc/wruqx3ze61BddXt3tBNZqGuGw=
+			TZYDHIafT7X5pbAAeXeLtRaDap5pjNgjrLZbU5df3As=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/IdentitySDK.framework/Modules/IdentitySDK.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			Qk+cdKXolSOgS4eJauJOsBor+hU=
-			</data>
 			<key>hash2</key>
 			<data>
-			iJXF8WAubMyytmNCSl1HXj7WPKQnbaphmnLJfvZnfvQ=
+			iXxRq8xc6OdJZa4xtJgBdGwaikvvI9VmxSgU8fAt7Ic=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/IdentitySDK.framework/Modules/IdentitySDK.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			CwKHYcuAmGdhdjWtHDQ1+rH50yQ=
-			</data>
 			<key>hash2</key>
 			<data>
-			9D+LoNjFgDYxhJi3+dzAhag7ZAD0mdsOvGpxc81JUxs=
+			CHSMIJJO6fBKufs0ttbPUcEIbTgJgQv4Ppz7S68Zbe8=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/IdentitySDK.framework/Modules/IdentitySDK.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			Qk+cdKXolSOgS4eJauJOsBor+hU=
-			</data>
 			<key>hash2</key>
 			<data>
-			iJXF8WAubMyytmNCSl1HXj7WPKQnbaphmnLJfvZnfvQ=
+			iXxRq8xc6OdJZa4xtJgBdGwaikvvI9VmxSgU8fAt7Ic=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/IdentitySDK.framework/Modules/module.modulemap</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			pOigS8WeBd9DOrnFujFgRvc5dcQ=
-			</data>
 			<key>hash2</key>
 			<data>
-			7mOW7sv/K3p9UI4+UkneqGlnFCxJbqCddd0RyS80d2A=
+			RBo4QG1lPRMQ0t1UiX55WAn+kUgHoEQiDdvHO/BCum4=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/IdentitySDK.framework/PrivacyInfo.xcprivacy</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			Xp+Gl6ysuek0ypCLcqR2uGTQmp0=
-			</data>
 			<key>hash2</key>
 			<data>
 			SWYKEE42QmLi4xwfGJyJnbMxi60APmVttjXjPVJa9Mc=
@@ -732,10 +584,6 @@
 		</dict>
 		<key>ios-arm64_x86_64-simulator/IdentitySDK.framework/ShadowsIntoLight-Regular.ttf</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			5RLWW0Q5joOQchVALUd2Q3UcHfo=
-			</data>
 			<key>hash2</key>
 			<data>
 			LWlyCLEzqQCrH1YH5DfQObGaD5Vvw9mYdgyrs8Ea07A=
@@ -743,21 +591,13 @@
 		</dict>
 		<key>ios-arm64_x86_64-simulator/IdentitySDK.framework/_CodeSignature/CodeResources</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			1GwBfPh0Vb1ELFfHrrsFm9TaOSU=
-			</data>
 			<key>hash2</key>
 			<data>
-			0Sg00wyoRRgyG/sbw/q5bIPJu7J0VGJTrt7G4PEznHU=
+			6xbOqekrBFuIiyBC8Dga1dBEgz8ATUqQFIz642muARc=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/IdentitySDK.framework/ca.lproj/Localizable.strings</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			erZEzIZD8GCM2CHKw4LywMO2sOA=
-			</data>
 			<key>hash2</key>
 			<data>
 			xC322wyA2fYzWaYw3YOaRGjG3DGTSV72eDhxHmAdzMI=
@@ -767,10 +607,6 @@
 		</dict>
 		<key>ios-arm64_x86_64-simulator/IdentitySDK.framework/da.lproj/Localizable.strings</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			DEliNxhfVvWCknz8H1BoG5KKuj4=
-			</data>
 			<key>hash2</key>
 			<data>
 			MdojiygBb2bHoWo4C0vl78zjQXcyg+pxz1sSNguWX2o=
@@ -780,10 +616,6 @@
 		</dict>
 		<key>ios-arm64_x86_64-simulator/IdentitySDK.framework/de.lproj/Localizable.strings</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			182hEY4nABn0Vi3zNbrph77o8SY=
-			</data>
 			<key>hash2</key>
 			<data>
 			sL2TO1DNezSGkPEzZxcGIMBoIO4FznN9VTYYs3uIKTE=
@@ -793,10 +625,6 @@
 		</dict>
 		<key>ios-arm64_x86_64-simulator/IdentitySDK.framework/en.lproj/Localizable.strings</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			CDaygUh7Zr0lx4wEBGPWWUEsYvA=
-			</data>
 			<key>hash2</key>
 			<data>
 			dTbsk+v2hOr8JCuhp6yzCS2Qfrdxn/ZF6awvw5/K67U=
@@ -806,10 +634,6 @@
 		</dict>
 		<key>ios-arm64_x86_64-simulator/IdentitySDK.framework/es.lproj/Localizable.strings</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			Rm0dno5qmZ26l9IFBGUBmo/e1rg=
-			</data>
 			<key>hash2</key>
 			<data>
 			40FDOR8Sp5Tlm0HqYa8MIAzTslKOsRLOQz8BoLBrORU=
@@ -819,10 +643,6 @@
 		</dict>
 		<key>ios-arm64_x86_64-simulator/IdentitySDK.framework/fi.lproj/Localizable.strings</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			GJx9etTH2rviplEYV2sdVg40lUk=
-			</data>
 			<key>hash2</key>
 			<data>
 			o40Fyh2ifliDyv1ebP6TJDlm1snRAlnaA9E8TCm2rNY=
@@ -832,10 +652,6 @@
 		</dict>
 		<key>ios-arm64_x86_64-simulator/IdentitySDK.framework/it.lproj/Localizable.strings</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			W9Zjq7YS/Pd4TaWjIhHAjGM/j2c=
-			</data>
 			<key>hash2</key>
 			<data>
 			hRIKKm9nQozc+9REonYuQh8u6RCZ6+UEFrnhNiAVlmc=
@@ -845,10 +661,6 @@
 		</dict>
 		<key>ios-arm64_x86_64-simulator/IdentitySDK.framework/no.lproj/Localizable.strings</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			cdRkuCbGGmn1h3M4MDhuZQO9SGA=
-			</data>
 			<key>hash2</key>
 			<data>
 			qMyEFvNg7DsSaCSEDpY+zj7EKIMyN3Q8SRZxzQ3m+a4=
@@ -858,10 +670,6 @@
 		</dict>
 		<key>ios-arm64_x86_64-simulator/IdentitySDK.framework/se.lproj/Localizable.strings</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			McYFyR8Xr3yqPN9Tn2GuPC2F31s=
-			</data>
 			<key>hash2</key>
 			<data>
 			xlNsG3/NAQgZBoiRhSUVLnII9SR7tA5vrbzkDyTswMs=
@@ -871,10 +679,6 @@
 		</dict>
 		<key>ios-arm64_x86_64-simulator/IdentitySDK.framework/sv.lproj/Localizable.strings</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			e1EHgiJbEdxHxdSxuQbR5Xn2UYc=
-			</data>
 			<key>hash2</key>
 			<data>
 			rGEJLzgeyxzxjXs+w5TYIgECmFXZgLv+k4+geLiy7lg=
