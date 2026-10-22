@@ -1,0 +1,50 @@
+{
+  "pins" : [
+    {
+      "identity" : "catnip-spm",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/signicat/catnip-spm.git",
+      "state" : {
+        "revision" : "8d00eea4e66f1f482b43fe2d416a937ceac4d687",
+        "version" : "0.0.10"
+      }
+    },
+    {
+      "identity" : "lottie-spm",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/airbnb/lottie-spm.git",
+      "state" : {
+        "revision" : "04f2fd18cc9404a0a0917265a449002674f24ec9",
+        "version" : "4.5.2"
+      }
+    },
+    {
+      "identity" : "openssl",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/krzyzanowskim/OpenSSL.git",
+      "state" : {
+        "revision" : "e7d34385da795aaaeb2212e38c7401e5c333f792",
+        "version" : "3.6.1"
+      }
+    },
+    {
+      "identity" : "videoidskd-spm",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/signicat/videoidskd-spm.git",
+      "state" : {
+        "revision" : "f63724d671997d1145bead57e62db3ee028c4b00",
+        "version" : "26.40.1"
+      }
+    },
+    {
+      "identity" : "webrtc",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/stasel/WebRTC.git",
+      "state" : {
+        "revision" : "5b2eb61cace7d62726b29a38b768b07d6bc55c45",
+        "version" : "134.0.0"
+      }
+    }
+  ],
+  "version" : 2
+}
